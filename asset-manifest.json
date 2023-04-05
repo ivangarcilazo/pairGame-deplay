@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/pairGame-deplay/static/css/main.99f97332.css",
+    "main.js": "/pairGame-deplay/static/js/main.8ecb4ada.js",
+    "static/js/787.bc6ddb2e.chunk.js": "/pairGame-deplay/static/js/787.bc6ddb2e.chunk.js",
+    "static/media/test.mp3": "/pairGame-deplay/static/media/test.fc3d9a0cc4d9468bc470.mp3",
+    "index.html": "/pairGame-deplay/index.html",
+    "main.99f97332.css.map": "/pairGame-deplay/static/css/main.99f97332.css.map",
+    "main.8ecb4ada.js.map": "/pairGame-deplay/static/js/main.8ecb4ada.js.map",
+    "787.bc6ddb2e.chunk.js.map": "/pairGame-deplay/static/js/787.bc6ddb2e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.99f97332.css",
+    "static/js/main.8ecb4ada.js"
+  ]
+}
